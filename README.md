@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to Nexus Soft
 
-<!--
-**NexusSoft204/NexusSoft204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building Smart Digital Solutions
 
-Here are some ideas to get you started:
+## Our Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Development  
+📱 Mobile Applications  
+🤖 AI Solutions  
+💼 Job Platforms  
+🛒 Marketplace Systems  
+
+## Technologies
+
+- React.js
+- Next.js
+- Tailwind CSS
+- Node.js
+- Python
+- Django
+- PostgreSQL
+
+## Contact
+
+Website: nexussoft.af
+Email: contact@nexussoft.af
