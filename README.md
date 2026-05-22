@@ -1,4 +1,7 @@
 # 👋 Welcome to Nexus Soft
+<p align="center">
+  <img src="https://github.com/NexusSoft204/NexusSoft204/blob/main/image_953b889b.png" width="100%"/>
+</p>
 
 🚀 Building Smart Digital Solutions
 
