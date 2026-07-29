@@ -72,6 +72,12 @@ Tools:
 - GitHub
 - Figma
 
+Ai
+  -Python
+  -Mashin learning
+  -Deep learning
+  -DataSince
+
 ---
 
 ## 📈 Our Mission
